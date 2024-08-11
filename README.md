@@ -9,7 +9,7 @@ I do web development projects and minecraft texture pack check out my RTX textur
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://jiyath-khan.000webhostapp.com/)
 * ✉️  You can contact me at [jiyathf@gmail.com](mailto:jiyathf@gmail.com )
-* 🚀  I'm currently working on [Elys PBR](http://mcpedl.com/ely-s-pbr)
+* 🚀  I'm currently working on [Elys PBR](https://elys-pbr.netlify.app/)
 * 🧠  I'm learning C++, Flask, PHP and more...
 * 🤝  I'm open to collaborating on ALL
 * ⚡  Ima developer but....
