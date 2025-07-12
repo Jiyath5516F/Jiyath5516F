@@ -24,7 +24,7 @@ Hello, I am Jiyath Khan, also known as 0x4a4b. I am a Minecraft Bedrock RTX PBR 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jiyath5516F&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can sponsor me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/0x4A4B) 
 
   
